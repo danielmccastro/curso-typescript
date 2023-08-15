@@ -44,3 +44,5 @@ objetoA4.chaveA4 = 'Outro valor';
 objetoA4.chaveC4 = 'Nova chave';
 
 console.log(objetoA4);
+
+// readonly chaveA: string; - nao permite alteracao no valor da chave
