@@ -1,3 +1,4 @@
+/* eslint-disable */
 // utilize any apenas em ultimo caso
 
 function showMesage(msg: any) {
